@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: "Young Serif", serif; */
+    overflow-x: hidden;
+    
+}
+
+
+.outfit{
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+h2,h1
+{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--WengeBrown);
+}
+:root{
+    --white: hsl(0, 0%, 100%);
+    --Rosewhite : hsl(330, 100%, 98%);
+    --LightGrey: hsl(30, 18%, 87%);
+    --WengeBrown: hsl(30, 10%, 34%);
+    --DarkCharcoal: hsl(24, 5%, 18%);
+    --Eggshell: hsl(30, 54%, 90%);
+}
+.young-serif-regular {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.outfit{
+    font-family: 'Outfit';
+    font-weight: 400;
+
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+
+}
+.img
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    border-radius: 5%;
+}
+
+.wrapper
+{
+    
+    height: 100%;
+    width: 100vw;
+    background-color: var(--Eggshell);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.container
+{
+    background-color: var(--white);
+    max-width: 700px;
+    /* margin-left: 20px; */
+    /* margin-right: 20px; */
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 1%;
+    
+
+}
+.Preparation
+{
+    background-color: var(--Rosewhite);
+    margin-top: 15px;
+    padding-left: 30px;
+    /* border: 1px solid black; */
+    border-radius: 2px;
+}
+.Preparation h2
+{
+    margin-bottom: 5px;
+}
+
+.ingredients h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+}
+.instructions
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ingredients ul{
+    margin-left: 10px;
+}
+.instructions ol li{
+   /* padding-bottom: 5px;     */
+   /* line-gap-override: 5px; */
+   margin-bottom: 15px;
+}
+.instructions h2{
+    margin-bottom: 5px;
+}
+.ingredients
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.omlette{
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.omlette h1{
+    margin-bottom: 15px;
+}
+.nutrition{
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    
+}
+.nutrition h2{
+    margin-bottom: 15px;
+}
+.nutrition p{
+    margin-bottom: 15px;
+}
+.span1{
+    margin-left: 450px;
+}
+.span2{
+    margin-left: 490px;
+}
+.span3{
+    margin-left: 490px;
+}
+.span4{
+    margin-left: 490px;
+}
+.instructions
+{
+    margin-top: 15px;
+}
+.instructions h2
+{
+    margin-bottom: 15px;
+}
+.instructions h2 p
+{
+    margin-bottom: 15px;
+}
+.ingredients{
+    margin-top: 15px;
+}
+.ingredients h2{
+    margin-bottom: 15px;
+}
+.ingredients p{
+    margin-top: 15px;
+}
+.hr1{
+    margin-top: 15px;
+}
+.hr2{
+    margin-top: 15px;
+}
+.hr3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.hr4{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.hr5{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+  
+  
